@@ -12,7 +12,7 @@ The first step of the project was to define a serious game. The Kaggle database 
 This manual selection of the serioud games was assesed by extracting and classifying manually 160 games from the database after filtration (it containes around 800 apps). The results were the following:
 
 <p align="center">
-  <img width="300" src="database_result.png">
+  <img width="300" src="images/database_result.png">
 </p>
 
 ## Game Characterization
@@ -53,11 +53,11 @@ Each article received the percentage of belonging to one of this four classes an
 The dashboard contains three pages which display the main information about the games and their publications, as well as some general statistics. The first page has the comparison of App Databases before and after filtering, which was done in the firts phase. The result is represented as two pie charts for either the App Category, the App Rating or the Number of Installations. On the right, there is the list of Apps, where they are ranked according to the number of extracted publications. If the user clicks on the name of that game and then on the tab Application, the second page will open.
 
 <table><tr>
-<td> <img src="page1.JPG" alt="Drawing" style="width: 450px;"/> </td>
-<td> <img src="page2.JPG" alt="Drawing" style="width: 450px;"/> </td>
+<td> <img src="images/page1.JPG" alt="Drawing" style="width: 450px;"/> </td>
+<td> <img src="images/page2.JPG" alt="Drawing" style="width: 450px;"/> </td>
 </tr></table>
 <p align="center">
-  <img width="450px" src="page3.JPG">
+  <img width="450px" src="images/page3.JPG">
 </p>
 
 Further details and characteristics of the serious game can be found in the Application page. On the left, under the title of the selected application, the user can find which Learning Category it falls under, the Rating, the Number of publications related to it and the URL that will bring them to the application page in the Online App Store. A comprehensive List of Publications is located in the middle of the page, displaying the titles of all the papers that have been found to be related to the serious game selected. On the right side, there exist two further pie charts – one refers to the game’s publications  study types and underneath, the other is a general statistic of the study types found in total.
